@@ -2,7 +2,7 @@
 
 int n;
 int k;
-int A[10000];
+int A[100000];
 
 int p(int m){
   int i = 0;
